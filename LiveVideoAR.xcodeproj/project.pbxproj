@@ -12,7 +12,6 @@
 		A1282FAF2A4F035900A2FC4C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1282FAD2A4F035900A2FC4C /* Main.storyboard */; };
 		A1282FB12A4F035A00A2FC4C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1282FB02A4F035A00A2FC4C /* Assets.xcassets */; };
 		A1282FB42A4F035A00A2FC4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1282FB22A4F035A00A2FC4C /* LaunchScreen.storyboard */; };
-		A1282FBC2A4F09B600A2FC4C /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A1282FBB2A4F09B500A2FC4C /* harrypotter.mp4 */; };
 		A171A2F72A657675003E55A4 /* romanticvideo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A171A2F62A657675003E55A4 /* romanticvideo.mp4 */; };
 /* End PBXBuildFile section */
 
@@ -23,7 +22,6 @@
 		A1282FAE2A4F035900A2FC4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A1282FB02A4F035A00A2FC4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A1282FB32A4F035A00A2FC4C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		A1282FBB2A4F09B500A2FC4C /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 		A171A2F62A657675003E55A4 /* romanticvideo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = romanticvideo.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -62,7 +60,6 @@
 				A1282FAD2A4F035900A2FC4C /* Main.storyboard */,
 				A1282FB02A4F035A00A2FC4C /* Assets.xcassets */,
 				A1282FB22A4F035A00A2FC4C /* LaunchScreen.storyboard */,
-				A1282FBB2A4F09B500A2FC4C /* harrypotter.mp4 */,
 				A171A2F62A657675003E55A4 /* romanticvideo.mp4 */,
 			);
 			path = LiveVideoAR;
@@ -128,7 +125,6 @@
 			files = (
 				A1282FB42A4F035A00A2FC4C /* LaunchScreen.storyboard in Resources */,
 				A1282FB12A4F035A00A2FC4C /* Assets.xcassets in Resources */,
-				A1282FBC2A4F09B600A2FC4C /* harrypotter.mp4 in Resources */,
 				A171A2F72A657675003E55A4 /* romanticvideo.mp4 in Resources */,
 				A1282FAF2A4F035900A2FC4C /* Main.storyboard in Resources */,
 			);
